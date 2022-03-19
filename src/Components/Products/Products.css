@@ -1,0 +1,14 @@
+.parent
+{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:15px;
+    padding:10px;
+}
+/* .searchBox
+{
+    background-color:black;
+    padding:50px;
+    margin:20px;
+    border-radius: 30px;
+} */
